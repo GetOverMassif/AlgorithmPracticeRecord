@@ -1,3 +1,4 @@
+// quick_sort
 #include <iostream>
 
 using namespace std;
@@ -18,9 +19,6 @@ void quick_sort(int q[], int l, int r)
         if (i<j)
             swap(q[i],q[j]);
     }
-    // for (int k=0;k<n;k++)
-    //     printf("%d ", q[k]);
-    // printf("\n");
     quick_sort(q,l,j);
     quick_sort(q,j+1,r);
 }

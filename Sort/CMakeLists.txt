@@ -5,3 +5,6 @@ set(CMAKE_BUILD_TYPE DEBUG)
 
 add_executable(AcWing785_quick_sort AcWing785_quick_sort.cpp)
 add_executable(AcWing787_merge_sort AcWing787_merge_sort.cpp)
+add_executable(AcWing786_the_kth_num AcWing786_the_kth_num.cpp)
+add_executable(AcWing788_num_of_inverse_order_pair AcWing788_num_of_inverse_order_pair.cpp)
+

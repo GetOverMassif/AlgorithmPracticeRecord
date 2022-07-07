@@ -5,7 +5,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/build/BinarySearch/AcWing789_range_of_num",
+        "program": "${workspaceFolder}/build/BinarySearch/AcWing790_third_root_of_num",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
