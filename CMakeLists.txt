@@ -9,3 +9,10 @@ add_subdirectory(
 add_subdirectory(
     Sort
 )
+add_subdirectory(
+    HighPrecision
+)
+
+add_subdirectory(
+    PrefixSumAndDifference
+)

@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.2)
+project(HighPrecision)
+
+set(CMAKE_BUILD_TYPE DEBUG)
+
+add_executable(AcWing791_high_precision_addition AcWing791_high_precision_addition.cpp)
+add_executable(AcWing792_high_precision_subtraction AcWing792_high_precision_subtraction.cpp)
+add_executable(AcWing793_high_precision_multiplication AcWing793_high_precision_multiplication.cpp)
+add_executable(AcWing794_high_precision_division AcWing794_high_precision_division.cpp)
