@@ -5,3 +5,5 @@ set(CMAKE_BUILD_TYPE DEBUG)
 
 add_executable(AcWing795_prefix_sum AcWing795_prefix_sum.cpp)
 add_executable(AcWing796_sum_of_submatrix AcWing796_sum_of_submatrix.cpp)
+add_executable(AcWing797_difference AcWing797_difference.cpp)
+add_executable(AcWing798_difference_matrix AcWing798_difference_matrix.cpp)
