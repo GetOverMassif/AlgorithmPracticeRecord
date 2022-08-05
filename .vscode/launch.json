@@ -5,7 +5,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/build/BinarySearch/AcWing790_third_root_of_num",
+        "program": "${workspaceFolder}/build/C1_basic_algorithm/C1_5_DoublePointer/AcWing799_longest_subsequence",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
